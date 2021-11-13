@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Praca_dyplomowa/Inżynierka/Model_F/images/train
+val: /content/drive/MyDrive/Praca_dyplomowa/Inżynierka/Model_F/images/valid
+
+nc: 1
+names: ['beer']
